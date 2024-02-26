@@ -1,0 +1,12 @@
+.circuit{
+    position: absolute;
+    width: 100%;
+    height: 120%;
+}
+
+form{
+    position: absolute;
+    padding-top: 20px;
+    margin-left: 50px;
+    color: black;
+}
